@@ -63,16 +63,6 @@ Simply open `index.html` in your browser to test the form.
 
 ---
 
-## 🖼️ Screenshots
-
-### 📌 Desktop View
-![Desktop View](images/desktop-preview.png)  
-
-### 📌 Mobile View
-![Mobile View](images/mobile-preview.png)  
-
----
-
 ## 🚀 How It Works  
 
 1️⃣ User enters their email and clicks the **Subscribe** button.  
