@@ -17,7 +17,7 @@
 
 ## 🚀 Live Demo  
 
-🔗 **[View Live Demo](https://your-live-demo-link.com)**  
+🔗 **[View Live Demo](https://email-subscription-form-dusky.vercel.app/)**  
 
 ---
 
